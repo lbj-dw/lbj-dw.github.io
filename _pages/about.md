@@ -91,7 +91,7 @@ redirect_from:
 
 # 📝 Research Experience-Other
 
-## **💡💡HaMonitorSentry - 高层建筑智能监测系统** <sub> &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/HaMonitorSentry/README.html) | [[项目代码]](https://github.com/mumuyeye/HaMonitorSentry) </sub>
+## **💡HaMonitorSentry - 高层建筑智能监测系统** <sub> &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/HaMonitorSentry/README.html) | [[项目代码]](https://github.com/mumuyeye/HaMonitorSentry) </sub>
 
 - **时间：** 2023.1 - 2024.5
 - **领域：** **计算机视觉**，**Geo AI**
@@ -111,7 +111,7 @@ redirect_from:
 
 ---
 
-## **💡💡💡 FaceShield-基于可逆神经网络的 DeepFake 溯源追踪系统**  
+## **💡 FaceShield-基于可逆神经网络的 DeepFake 溯源追踪系统**  
 
 - **时间：** 2023.11 ~ 2024.6  
 - **领域：** 人工智能安全  
@@ -126,7 +126,7 @@ redirect_from:
 
 ---
 
-## **💡💡💡 Google-American Sign Language Fingerspelling Recognition**  
+## **💡 Google-American Sign Language Fingerspelling Recognition**  
 
 - **时间：** 2023.5 ~ 2023.8  
 - **领域：** 序列建模  
@@ -142,7 +142,7 @@ redirect_from:
 
 ---
 
-## **💡💡💡 数据解读乡村发展**  
+## **💡 数据解读乡村发展**  
 
 - **时间：** 2024.3 ~ 2024.4  
 - **领域：** 数据分析、数据挖掘  
@@ -157,7 +157,7 @@ redirect_from:
 
 ---
 
-## **💡💡💡 从“堆盒子”到动态规划**  
+## **💡 从“堆盒子”到动态规划**  
 
 - **时间：** 2022.1 ~ 2022.5  
 - **领域：** 算法教学、算法可视化  
